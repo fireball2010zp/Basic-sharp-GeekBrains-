@@ -1,0 +1,8 @@
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\bin\Debug\_4.Exchange.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\bin\Debug\_4.Exchange.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\bin\Debug\_4.Exchange.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\obj\Debug\4. Exchange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\obj\Debug\4. Exchange.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\obj\Debug\_4.Exchange.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\obj\Debug\_4.Exchange.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\4. Exchange\obj\Debug\4. Exchange.csproj.AssemblyReference.cache

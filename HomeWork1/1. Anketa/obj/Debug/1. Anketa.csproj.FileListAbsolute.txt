@@ -1,0 +1,8 @@
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\bin\Debug\_1.Anketa.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\bin\Debug\_1.Anketa.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\bin\Debug\_1.Anketa.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\obj\Debug\1. Anketa.csproj.AssemblyReference.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\obj\Debug\1. Anketa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\obj\Debug\1. Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\obj\Debug\_1.Anketa.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\1. Anketa\obj\Debug\_1.Anketa.pdb

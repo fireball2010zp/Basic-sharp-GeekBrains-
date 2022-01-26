@@ -1,0 +1,8 @@
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\bin\Debug\_3.Distance.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\bin\Debug\_3.Distance.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\bin\Debug\_3.Distance.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\obj\Debug\3. Distance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\obj\Debug\3. Distance.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\obj\Debug\_3.Distance.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\obj\Debug\_3.Distance.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\3. Distance\obj\Debug\3. Distance.csproj.AssemblyReference.cache
