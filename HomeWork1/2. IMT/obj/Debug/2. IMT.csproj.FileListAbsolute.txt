@@ -1,0 +1,7 @@
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\bin\Debug\_2.IMT.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\bin\Debug\_2.IMT.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\bin\Debug\_2.IMT.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\obj\Debug\2. IMT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\obj\Debug\2. IMT.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\obj\Debug\_2.IMT.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\2. IMT\obj\Debug\_2.IMT.pdb
