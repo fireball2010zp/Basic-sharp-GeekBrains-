@@ -1,0 +1,8 @@
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\bin\Debug\_5.Name_City.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\bin\Debug\_5.Name_City.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\bin\Debug\_5.Name_City.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\obj\Debug\5. Name+City.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\obj\Debug\5. Name+City.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\obj\Debug\_5.Name_City.exe
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\obj\Debug\_5.Name_City.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork1\5. Name+City\obj\Debug\5. Name+City.csproj.AssemblyReference.cache
