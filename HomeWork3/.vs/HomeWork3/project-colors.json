@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28eb715c-d62d-4c2e-b99e-4f1f347fd6fe": {
+      "ProjectGuid": "28eb715c-d62d-4c2e-b99e-4f1f347fd6fe",
+      "DisplayName": "lesson-3",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
