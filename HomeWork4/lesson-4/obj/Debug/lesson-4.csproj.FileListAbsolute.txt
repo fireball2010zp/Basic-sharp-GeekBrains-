@@ -1,0 +1,10 @@
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\bin\Debug\lesson-4.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\bin\Debug\lesson-4.exe
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\bin\Debug\lesson-4.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\obj\Debug\lesson-4.csproj.AssemblyReference.cache
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\obj\Debug\lesson-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\obj\Debug\lesson-4.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\obj\Debug\lesson-4.exe
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\obj\Debug\lesson-4.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\bin\Debug\ArrayFile.txt
+C:\Users\Oliver Yan\source\repos\HomeWork4\lesson-4\bin\Debug\Access.txt
