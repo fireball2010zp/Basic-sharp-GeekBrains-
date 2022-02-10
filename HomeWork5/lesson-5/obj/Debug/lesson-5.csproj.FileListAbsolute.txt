@@ -1,0 +1,8 @@
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\bin\Debug\lesson-5.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\bin\Debug\lesson-5.exe
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\bin\Debug\lesson-5.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\obj\Debug\lesson-5.csproj.AssemblyReference.cache
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\obj\Debug\lesson-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\obj\Debug\lesson-5.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\obj\Debug\lesson-5.exe
+C:\Users\Oliver Yan\source\repos\HomeWork5\lesson-5\obj\Debug\lesson-5.pdb
