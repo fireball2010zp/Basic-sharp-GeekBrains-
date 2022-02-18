@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-7.1 Doubler", "lesson-7\lesson-7.1 Doubler.csproj", "{AF927E1C-E1F3-4C09-B6E3-1A67B5C020CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson-7.2 Guess", "lesson-7.2 Guess\lesson-7.2 Guess.csproj", "{C3D16470-E80C-4874-8FB7-C1F7A23339F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF927E1C-E1F3-4C09-B6E3-1A67B5C020CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF927E1C-E1F3-4C09-B6E3-1A67B5C020CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF927E1C-E1F3-4C09-B6E3-1A67B5C020CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF927E1C-E1F3-4C09-B6E3-1A67B5C020CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D16470-E80C-4874-8FB7-C1F7A23339F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D16470-E80C-4874-8FB7-C1F7A23339F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D16470-E80C-4874-8FB7-C1F7A23339F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D16470-E80C-4874-8FB7-C1F7A23339F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3914FE22-6BC0-412E-B1DC-9FE95F6B7CCF}
+	EndGlobalSection
+EndGlobal

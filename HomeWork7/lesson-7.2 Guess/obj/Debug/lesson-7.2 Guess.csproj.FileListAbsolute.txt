@@ -1,0 +1,11 @@
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\bin\Debug\lesson-7.2 Guess.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\bin\Debug\lesson-7.2 Guess.exe
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\bin\Debug\lesson-7.2 Guess.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.csproj.AssemblyReference.cache
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson_7._2_Guess.Form1.resources
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson_7._2_Guess.Properties.Resources.resources
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.csproj.GenerateResource.cache
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.exe
+C:\Users\Oliver Yan\source\repos\HomeWork7\lesson-7.2 Guess\obj\Debug\lesson-7.2 Guess.pdb
