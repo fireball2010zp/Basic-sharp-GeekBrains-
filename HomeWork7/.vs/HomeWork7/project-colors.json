@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af927e1c-e1f3-4c09-b6e3-1a67b5c020cd": {
+      "ProjectGuid": "af927e1c-e1f3-4c09-b6e3-1a67b5c020cd",
+      "DisplayName": "lesson-7.1 Doubler",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "c3d16470-e80c-4874-8fb7-c1f7a23339f5": {
+      "ProjectGuid": "c3d16470-e80c-4874-8fb7-c1f7a23339f5",
+      "DisplayName": "lesson-7.2 Guess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
