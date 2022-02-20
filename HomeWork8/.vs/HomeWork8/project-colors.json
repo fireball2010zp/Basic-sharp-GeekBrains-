@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c96dd3a-45d7-4a77-87a8-4fe1b3ea6dba": {
+      "ProjectGuid": "5c96dd3a-45d7-4a77-87a8-4fe1b3ea6dba",
+      "DisplayName": "lesson-8",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "0db19984-4688-4f92-a1a0-372b371e3e58": {
+      "ProjectGuid": "0db19984-4688-4f92-a1a0-372b371e3e58",
+      "DisplayName": "lesson-8.2",
+      "ColorIndex": 1
+    },
+    "5b34a02b-ce34-4265-ae82-e5a625cf3fe9": {
+      "ProjectGuid": "5b34a02b-ce34-4265-ae82-e5a625cf3fe9",
+      "DisplayName": "lesson-8.3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

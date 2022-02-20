@@ -1,0 +1,11 @@
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\bin\Debug\lesson-8.2.exe.config
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\bin\Debug\lesson-8.2.exe
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\bin\Debug\lesson-8.2.pdb
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.csproj.AssemblyReference.cache
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson_8._2.Form1.resources
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson_8._2.Properties.Resources.resources
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.csproj.GenerateResource.cache
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.exe
+C:\Users\Oliver Yan\source\repos\HomeWork8\lesson-8.2\obj\Debug\lesson-8.2.pdb
